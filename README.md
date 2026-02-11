@@ -255,11 +255,6 @@ crime-data-analysis-ontario/
 │   ├── Data_Acquisition_Presentation.pptx # Project presentation
 │   └── methodology.md                    # Detailed methodology
 │
-├── 📁 outputs/                           # Generated outputs
-│   ├── figures/                          # Visualization images
-│   ├── tables/                           # Statistical tables
-│   └── models/                           # Saved model files
-│
 └── 📁 src/                               # Source code (if modularized)
     ├── data_cleaning.py
     ├── visualization.py
@@ -312,15 +307,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Statistics Canada** for providing the crime data
 - **Conestoga College** for academic support
 - **Scikit-learn, Pandas, and Matplotlib** communities for excellent documentation
-
----
-
-## 📞 Contact
-
-For questions or feedback about this project, please:
-
-- Open an [Issue](../../issues) on GitHub
-- Contact the project team through Conestoga College
 
 ---
 
